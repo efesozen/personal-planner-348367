@@ -1,0 +1,11 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { TasksModule } from './modules/tasks/tasks.module';
+import { RemindersModule } from './modules/reminders/reminders.module';
+import { SubscriptionsModule } from './modules/subscriptions/subscriptions.module';
+import { ActivitylogsModule } from './modules/activitylogs/activitylogs.module';
+
+// Add to @Module imports array:
+// TasksModule,
+// RemindersModule,
+// SubscriptionsModule,
+// ActivitylogsModule
